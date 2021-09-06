@@ -3,7 +3,7 @@ version: 0.2
 
 phases:
   install:
-    runtime-versions:
+    #runtime-versions:
       python: 3.7
     commands:
       - echo 'about to call dockerd'
