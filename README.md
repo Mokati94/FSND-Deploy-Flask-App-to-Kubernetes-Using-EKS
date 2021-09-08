@@ -1,6 +1,6 @@
 # Deploying a Flask API
 
-external IP:  ab5d2f8408cf64de0be4ab036e32eaf7-1896926725.us-west-2.elb.amazonaws.com
+
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
